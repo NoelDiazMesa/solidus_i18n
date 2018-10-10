@@ -378,7 +378,7 @@ es:
         active: Activo
       spree/user:
         email: Email
-        password: Constraseña
+        password: Contraseña
         password_confirmation: Confirmación de Contraseña
       spree/variant:
         cost_currency: Moneda de coste
